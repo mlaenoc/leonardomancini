@@ -23,8 +23,7 @@ https://doi.org/10.1016/j.isci.2020.101560
 
 4. Walczak M, Brady R, Mancini L, Contini C, Rubio-Sànchez R, Kaufhold W, Cicuta P, Di Michele L.
 Responsive core-shell DNA particles trigger lipid-membrane disruption and bacteria entrapment. Nat Comms
-2021.
-https://doi.org/10.1038/s41467-021-24989-7
+2021. https://doi.org/10.1038/s41467-021-24989-7
 
 5. Honda T*, Cremer J*, Mancini L, Zhang Z, Pilizota T, Hwa T. Coordination of gene expression with cell size
 enables Escherichia coli to efficiently maintain motility across growth conditions. PNAS, _In Press_
