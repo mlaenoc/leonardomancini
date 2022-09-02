@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Leonardo Mancini - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Leonardo Mancini -- Publications."
 sitemap: false
 permalink: /publications/
 ---
