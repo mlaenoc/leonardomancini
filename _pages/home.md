@@ -5,7 +5,7 @@ excerpt: "Leonardo Mancini at University of Cambridge."
 sitemap: false
 permalink: /
 ---
-images/smallpic.jpg
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/leonardomancini/images/smallpic.jpg" style="width: 210px">
  </figure>
