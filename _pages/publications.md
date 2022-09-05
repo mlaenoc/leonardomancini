@@ -13,7 +13,7 @@ permalink: /publications/
 1. Mancini L, Terradot G, Tian T, Pu YY, Li Y, Lo CJ, Bai F, Pilizota T. A general workflow for characterization
 of Nernstian dyes and their effects on bacterial physiology. [Biophys J 2020](https://doi.org/10.1016/j.bpj.2019.10.030)
 <figure class="fourth">
-  <img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/BJ cover art.png" style="width: 210px">
+  <img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/BJ cover art.png" style="width: 600px">
  </figure>
 
 
