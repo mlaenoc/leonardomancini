@@ -13,7 +13,7 @@ permalink: /publications/
 1. Mancini L, Terradot G, Tian T, Pu YY, Li Y, Lo CJ, Bai F, Pilizota T. A general workflow for characterization
 of Nernstian dyes and their effects on bacterial physiology. [Biophys J 2020](https://doi.org/10.1016/j.bpj.2019.10.030)
 <figure class="fourth">
-  <img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/BJ cover art.png" style="width: 600px">
+  <img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/BJ cover art.png" style="width: 400px">
  </figure>
 
 
@@ -23,7 +23,7 @@ of Nernstian dyes and their effects on bacterial physiology. [Biophys J 2020](ht
 the dynamics of both genome and cytosol in Escherichia coli challenged with sublethal antibiotic treatments.
 [iScience 2020](https://doi.org/10.1016/j.isci.2020.101560)
 <figure class="fourth">
-  <img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/Graphical abstract cytosolic crowding.jpg" style="width: 600px">
+  <img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/Graphical abstract cytosolic crowding.jpg" style="width: 300px">
  </figure>
 
 4. Walczak M, Brady R, Mancini L, Contini C, Rubio-Sànchez R, Kaufhold W, Cicuta P, Di Michele L.
