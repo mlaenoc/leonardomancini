@@ -8,10 +8,10 @@ permalink: /CV/
 
 # CV
 
-######**CURRENT POSITION**  
+###### **CURRENT POSITION**  
 Herchel Smith fellow in the Department of Biohcemistry and Biophysics, University of Cambridge
 
-######**RESEARCH EXPERIENCE**  
+###### **RESEARCH EXPERIENCE**  
 **2019-2022**       Postdoctoral researcher, [Cicuta lab](https://people.bss.phy.cam.ac.uk/~pc245/), University of Cambridge
 
 ######**EDUCATION**  
