@@ -8,18 +8,18 @@ permalink: /CV/
 
 # CV
 
-# CURRENT POSITION 
+**CURRENT POSITION**
 Herchel Smith fellow in the Department of Biohcemistry and Biophysics, University of Cambridge
 
-# RESEARCH EXPERIENCE
+**RESEARCH EXPERIENCE**
 2019-2022       Postdoctoral researcher, [Cicuta lab](https://people.bss.phy.cam.ac.uk/~pc245/), University of Cambridge
 
-# EDUCATION
+**EDUCATION**
 2015-2020       PhD in Systems Microbiology, [Pilizota lab](https://pilizotalab.bio.ed.ac.uk/), University of Edinburgh
 2014-2015       MPhil in Biological Sciences, Department of Biochemistry, University of Cambridge
 2011-2014       BSc in Biological Sciences, Department of Chemistry, Biology and Biotechnology, University of Perugia, 110/110 cum laude
 
-# ACHIEVEMENTS AND AWARDS
+**ACHIEVEMENTS AND AWARDS**
 2022            Herchel Smith postdoctoral fellowship (£160K)
 2017,2018,2019  Renny Bequest travel award to attend the EMBO/EMBL symposium (Heidelberg), the Spring
                 meeting DPG and EPS (Berlin) and the APS March meeting (Boston). (£1.5K total)
@@ -30,7 +30,7 @@ Herchel Smith fellow in the Department of Biohcemistry and Biophysics, Universit
 2012-2013       Erasmus scholarship at University College Cork (2.4K €)
 2006,2008       Italian finalist at the International competition for mathematical and logical games
 
-# TALKS
+**TALKS**
 2022            87th Harden Conference: Single-molecule bacteriology II
 2022            Quantitative approaches to antimicrobial resistance and microbiology
 2021            IOP early-career Research in Biological Physics workshop
@@ -39,7 +39,7 @@ Herchel Smith fellow in the Department of Biohcemistry and Biophysics, Universit
 2019            APS March meeting
 2018            Spring meeting DPG and EPS
 
-# TEACHING, SUPERVISING, MENTORING
+**TEACHING, SUPERVISING, MENTORING**
 2022            Supervisor and examiner EPSRC sensor CDT Masters project
 2020,2022       Microscopy, microfluidics techniques, image analysis: Aske Birkjær Petersen, PhD student
 2021            Part III course in biophysics, Department of Physics, Guest lecture
@@ -57,35 +57,35 @@ Herchel Smith fellow in the Department of Biohcemistry and Biophysics, Universit
                 Teuta Pilizota), University of Edinburgh
 2017            Demonstrator, Molecular Genetics 3, University of Edinburgh
 
-# ORGANIZATION OF SCIENTIFIC CONFERENCES
+**ORGANIZATION OF SCIENTIFIC CONFERENCES**
 2021-2022       Organizer of the 2022 Physics of AMR conference
 2018            Organizer of the Annual PhD symposium for the Institute of Cell Biology
 2017            Section chair at the Annual PhD symposium for the Institute of Cell Biology
 
-# OUTREACH
+**OUTREACH**
 2021            Invited speaker at “Coworking Sassuolo”
 2020            Scientist at: “I am a scientist, get me out of here”, first weekly winner
 2015            Demonstrator at the Cambridge Science Festival
 2013            Speaker at the Kenes Centre, Almaty, Kazakhstan in an international formative
                 project for local physiotherapist and therapists 
 
-# OTHER ROLES
+**OTHER ROLES**
 2021-2022       Coach of the University of Cambridge 2nd Women Basketball team & Hughes Hall college basketball
 2019-2022       External member of the Darwin College basketball team
 2017-2019       Captain of the University of Edinburgh 1st basketball team
 2014-2015       Coach and co-captain of the St Edmund’s College basketball team (University of Cambridge)
 
-# PAST AND PRESENT AFFILIATIONS TO SCIENTIFIC SOCIETIES:
+**PAST AND PRESENT AFFILIATIONS TO SCIENTIFIC SOCIETIES**
 Institute of Physics (IOP), Microbiology society and American Physics Society (APS), Division of Biological sciences (DBIO)
 
-# RESEARCH SKILLS:
+**RESEARCH SKILLS**
 Laboratory techniques (CL2) culture of E. coli (both pathogenic and non pathogenic), B. subtilis, S. cerevisiae and S.
 aureus - flow cytometry - plate readers - protein purification - molecular biology - live microscopy
 (epifluorescent/confocal) - microfluidics (including soft lithography and laser writer techniques) - 3D printing - Coulter
 counter - back-focal plane interferometry - spectrometer and fluorimeter - quantitative image analysis
 Software Python, Matlab, LaTex, LabView, ImageJ, Gimp 2, Inkscape, CAD, Office
 
-# COLLABORATIONS:
+**COLLABORATIONS**
 2021 - present Diana Fusco, University of Cambridge
 2020 - present Lorenzo Di Michele, Imperial College London 
 2019 - present Marco Cosentino Lagomarsino, IFOM 
