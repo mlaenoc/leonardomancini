@@ -8,7 +8,7 @@ permalink: /CV/
 
 # CV
 
-#### **CURRENT POSITION**  
+### **CURRENT POSITION**  
 Herchel Smith fellow in the Department of Biohcemistry and Biophysics, University of Cambridge
 
 ##### **RESEARCH EXPERIENCE**  
