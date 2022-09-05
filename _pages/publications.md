@@ -35,5 +35,5 @@ the dynamics of both genome and cytosol in Escherichia coli challenged with subl
 **5.** Honda T*, Cremer J*, **Mancini L**, Zhang Z, Pilizota T, Hwa T. **Coordination of gene expression with cell size
 enables Escherichia coli to efficiently maintain motility across growth conditions.** PNAS, _In Press_, [BioRxiv link](https://doi.org/10.1101/2021.05.12.443892)
 
-**6. Mancini L**, Pilizota T. Environmental conditions define the energetics of bacterial dormancy and its antibiotic
-susceptibility. [BioRxiv 2020](https://doi.org/10.1101/2020.06.18.160226)
+**6. Mancini L**, Pilizota T. **Environmental conditions define the energetics of bacterial dormancy and its antibiotic
+susceptibility.** [BioRxiv 2020](https://doi.org/10.1101/2020.06.18.160226)
