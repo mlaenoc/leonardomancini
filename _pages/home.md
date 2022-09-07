@@ -5,7 +5,7 @@ excerpt: "Leonardo Mancini at University of Cambridge."
 sitemap: false
 permalink: /
 ---
-<img src="(https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/smallpic.jpg?raw=true)" />
+<img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/smallpic.jpg?raw=true" />
 
 
 
