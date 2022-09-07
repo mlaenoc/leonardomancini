@@ -12,7 +12,7 @@ and [Prof. Pietro Cicuta](https://people.bss.phy.cam.ac.uk/~pc245/).
 
 I am interested in everything microbes and most recently one of my aims has been to explore and understand the interplay between microbial phenotypes and antibiotics.  
 My favourite approach is direct microscopical observation for which I manufacture imaging supports (milli and microfluidics). I automate image and data analysis using  
-Python and Matlab. I complement these techniques with bulk experiments that I often use to refine hypotheses and I produce the strains I work with using molecular  
+Python and Matlab. I complement these techniques with bulk experiments that I use to refine hypotheses and I produce the strains I work with using molecular  
 biology. The data I collect informs mathematical modelling often through collaborations.
 
 
