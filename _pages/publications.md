@@ -20,7 +20,7 @@ of Nernstian dyes and their effects on bacterial physiology.** [Biophys J 2020](
 **3.** Wlodarski M*, **Mancini L***, Raciti B, Sclavi B, Cosentino Lagomarsino M, Cicuta P. **Cytosolic crowding drives
 the dynamics of both genome and cytosol in Escherichia coli challenged with sublethal antibiotic treatments.**
 [iScience 2020](https://doi.org/10.1016/j.isci.2020.101560)  
-<img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/Graphical%20abstract%20cytosolic%20crowding.jpg?raw=true" width=300 />
+<img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/Graphical%20abstract%20cytosolic%20crowding.jpg?raw=true" width=400 />
 
 
 **4.** Walczak M, Brady R, **Mancini L**, Contini C, Rubio-Sànchez R, Kaufhold W, Cicuta P, Di Michele L.
