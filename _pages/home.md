@@ -5,8 +5,8 @@ excerpt: "Leonardo Mancini at University of Cambridge."
 sitemap: false
 permalink: /
 ---
-![Profile image](/images/smallpic.jpg)
-    
+<img src="https://github.com/mlaenoc/leonardomancini/blob/9f6738a42c740ed3cd8cd88ff88c4f825bceb982/images/smallpic.jpg" />
+
 I am a Herchel Smith fellow at the department of Biochemistry and Physics at the University of Cambridge where I collaborate with the labs of [Prof. Martin Welch](https://www4.bioc.cam.ac.uk/welch/)  
 and [Prof. Pietro Cicuta](https://people.bss.phy.cam.ac.uk/~pc245/). 
 
