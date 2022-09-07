@@ -18,7 +18,7 @@ of Nernstian dyes and their effects on bacterial physiology.** [Biophys J 2020](
 
 **2. Mancini L. Measuring energy levels in bacterial dormancy.** [PhD thesis 2020](http://dx.doi.org/10.7488/era/79)
 
-**3.** Wlodarski M*, **Mancini L*****\***, Raciti B, Sclavi B, Cosentino Lagomarsino M, Cicuta P. **Cytosolic crowding drives
+**3.** Wlodarski M\*, **Mancini L*****\***, Raciti B, Sclavi B, Cosentino Lagomarsino M, Cicuta P. **Cytosolic crowding drives
 the dynamics of both genome and cytosol in Escherichia coli challenged with sublethal antibiotic treatments.**
 [iScience 2020](https://doi.org/10.1016/j.isci.2020.101560)  
   
@@ -30,7 +30,7 @@ the dynamics of both genome and cytosol in Escherichia coli challenged with subl
   
   <img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/Responsive%20core%20shell%20graphical%20abstract.jpg?raw=true" width=700 />
 
-**5.** Honda T*, Cremer J*, **Mancini L**, Zhang Z, Pilizota T, Hwa T. **Coordination of gene expression with cell size
+**5.** Honda T\*, Cremer J\*, **Mancini L**, Zhang Z, Pilizota T, Hwa T. **Coordination of gene expression with cell size
 enables Escherichia coli to efficiently maintain motility across growth conditions.** [PNAS 2022](https://doi.org/10.1101/2021.05.12.443892)  
   
   <img src="https://github.com/mlaenoc/leonardomancini/blob/gh-pages/images/Coordination%20gene%20expression%20swimming.png?raw=true" width=500 />
