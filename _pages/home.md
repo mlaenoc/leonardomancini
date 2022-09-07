@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 <figure>
-  <img src="https://github.com/mlaenoc/leonardomancini/blob/3a7b91cc72c8d0e6e7492d324494160d245ea392/images/smallpic.jpg" style="width: 210px">
+  <img src="./images/smallpic.jpg" style="width: 210px">
  </figure>
 
     
