@@ -1,10 +1,16 @@
 ---
-title: "About the website"
+title: "Contact"
 layout: textlay
-excerpt: "About the website."
+excerpt: "Contact"
 sitemap: false
-permalink: /aboutwebsite.html
+permalink: /contact.html
 ---
+
+University of Cambridge
+Cavendish Laboratory
+
+Email: lm653 (at) cam.ac .uk
+Twitter: [@mlaenoc](https://twitter.com/mlaenoc)
 
 
 
