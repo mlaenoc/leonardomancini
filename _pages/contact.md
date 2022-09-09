@@ -6,10 +6,10 @@ sitemap: false
 permalink: /contact.html
 ---
 
-University of Cambridge
+University of Cambridge  
 Cavendish Laboratory
 
-Email: lm653 (at) cam.ac .uk
+Email: lm653 (at) cam.ac .uk  
 Twitter: [@mlaenoc](https://twitter.com/mlaenoc)
 
 
