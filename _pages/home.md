@@ -17,4 +17,8 @@ biology. The data I collect informs mathematical modelling often through collabo
 
 
 
+Address: University of Cambridge, Cavendish Laboratory, UK
+Email: lm653 (at) cam.ac.uk  
+Twitter: [@mlaenoc](https://twitter.com/mlaenoc)
+
 
