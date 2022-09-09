@@ -16,13 +16,21 @@ Python and Matlab. I complement these techniques with bulk experiments that I us
 biology. The data I collect informs mathematical modelling often through collaborations.
   
     
-      
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
         
         
 
 
-Address: University of Cambridge, Cavendish Laboratory, UK  
-Email: lm653 (at) cam.ac.uk  
-Twitter: [@mlaenoc](https://twitter.com/mlaenoc)
+**Address:** University of Cambridge, Cavendish Laboratory, UK  
+**Email:** lm653 (at) cam.ac.uk  
+**Twitter:** [@mlaenoc](https://twitter.com/mlaenoc)
 
 
