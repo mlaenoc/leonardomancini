@@ -14,10 +14,14 @@ I am interested in everything microbes and most recently one of my aims has been
 My favourite approach is direct microscopical observation for which I manufacture imaging supports (milli and microfluidics). I automate image and data analysis using  
 Python and Matlab. I complement these techniques with bulk experiments that I use to refine hypotheses and I produce the strains I work with using molecular  
 biology. The data I collect informs mathematical modelling often through collaborations.
+  
+    
+      
+        
+        
 
 
-
-Address: University of Cambridge, Cavendish Laboratory, UK
+Address: University of Cambridge, Cavendish Laboratory, UK  
 Email: lm653 (at) cam.ac.uk  
 Twitter: [@mlaenoc](https://twitter.com/mlaenoc)
 
